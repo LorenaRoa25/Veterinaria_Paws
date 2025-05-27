@@ -78,6 +78,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'djongo',
         'NAME': 'Veterinaria_BD',
+        'ENFORCE_SCHEMA': False,
         'CLIENT': {
             'host': 'mongodb+srv://lorenaroa:lorena2501@veterinaria-cluster.tmu0vht.mongodb.net/?retryWrites=true&w=majority&appName=veterinaria-cluster',
         },
