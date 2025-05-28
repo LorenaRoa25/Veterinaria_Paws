@@ -9,7 +9,7 @@ https://docs.djangoproject.com/en/5.2/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.2/ref/settings/
 """
-
+import os
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'Veterinaria_BD',
         'ENFORCE_SCHEMA': False,
         'CLIENT': {
-            'host': 'mongodb+srv://lorenaroa:lorena2501@veterinaria-cluster.tmu0vht.mongodb.net/?retryWrites=true&w=majority&appName=veterinaria-cluster',
+            'host': os.getenv('DATABASE_URL'),
         },
     }
 }
