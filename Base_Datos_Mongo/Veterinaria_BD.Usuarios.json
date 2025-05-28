@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "689a4f2d01ef71026bf07501"
+  },
+  "nombre": "Fabiana Rosales Rodríguez",
+  "rol": "Administrador",
+  "email": "pawsveterinaria25@gmail.com",
+  "contrasena": "fabiana123"
+},
+{
+  "_id": {
+    "$oid": "689a4f2d01ef71026bf07502"
+  },
+  "nombre": "Lorena Roa Rivera",
+  "rol": "Administrador",
+  "email": "pawsveterinaria25@gmail.com",
+  "contrasena": "lorena123"
+},
+{
+  "_id": {
+    "$oid": "689a4f2d01ef71026bf07503"
+  },
+  "nombre": "Jeon Jung-kook",
+  "rol": "Cliente",
+  "email": "jungkook97@gmail.com",
+  "contrasena": "jungkook97",
+  "telefono": "+82 10-1234-5678"
+},
+{
+  "_id": {
+    "$oid": "689a4f2d01ef71026bf07504"
+  },
+  "nombre": "Taylor Alison Swift",
+  "rol": "Cliente",
+  "email": "taylor13swift@gmail.com",
+  "contrasena": "swiftie13",
+  "telefono": "+1 615-987-6543"
+},
+{
+  "_id": {
+    "$oid": "689a4f2d01ef71026bf07505"
+  },
+  "nombre": "Juan Luis Londoño Arias",
+  "rol": "Cliente",
+  "email": "maluma11@gmail.com",
+  "contrasena": "maluma2025",
+  "telefono": "+57 300-456-7890"
+},
+{
+  "_id": {
+    "$oid": "689a4f2d01ef71026bf07506"
+  },
+  "nombre": "Carolina Giraldo Navarro",
+  "rol": "Cliente",
+  "email": "karolg14@gmail.com",
+  "contrasena": "karolg2025",
+  "telefono": "+57 301-234-5678"
+},
+{
+  "_id": {
+    "$oid": "689a4f2d01ef71026bf07507"
+  },
+  "nombre": "Salomón Villada",
+  "rol": "Cliente",
+  "email": "feid07@gmail.com",
+  "contrasena": "feid2025",
+  "telefono": "+57 302-789-1234"
+},
+{
+  "_id": {
+    "$oid": "682d3a70c5349edc1600500a"
+  },
+  "password": "!b737H4v77uaZnaWyzXbAMRzfYEr7JJk8avU5G497",
+  "last_login": null,
+  "nombre": "root",
+  "email": "fvfvt@gmail.com",
+  "contrasena": "",
+  "rol": "Administrador"
+},
+{
+  "_id": {
+    "$oid": "682d3cc3dc5d0a3e941a646c"
+  },
+  "password": "!JEzWbBquUaYj1ECQTHyfe536bg1OKWPtuOfud6n8",
+  "last_login": null,
+  "nombre": "paws",
+  "email": "paws@gmail.com",
+  "contrasena": "",
+  "rol": "Administrador"
+},
+{
+  "_id": {
+    "$oid": "682dfd3b448485f189271620"
+  },
+  "password": "!yqau6JoNO5yOXwvJH3N5LNHmQ4eRPSc4aGPcvS2E",
+  "last_login": null,
+  "nombre": "lorena",
+  "email": "lore@gmail.com",
+  "contrasena": "",
+  "rol": "Administrador"
+},
+{
+  "_id": {
+    "$oid": "682dfe970896e882a16c29d6"
+  },
+  "password": "",
+  "last_login": null,
+  "nombre": "Administrador",
+  "email": "admin@pawsveterinaria.com",
+  "contrasena": "admin123",
+  "rol": "Administrador"
+}]

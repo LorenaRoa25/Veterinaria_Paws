@@ -1,0 +1,125 @@
+[{
+  "_id": {
+    "$oid": "68119db601ef71026bf074d4"
+  },
+  "nombre": "NutriPet Colombia S.A.S.",
+  "contacto": {
+    "telefono": "+57 1 4567890",
+    "email": "ventas@nutripetcol.com"
+  },
+  "direccion": "Calle 100 # 19-45, Bogotá, Colombia",
+  "catalogo": [
+    {
+      "categoria": "Alimento",
+      "descripcion": "Alimento seco y húmedo para perros y gatos",
+      "marcas": [
+        "Chunky",
+        "Pedigree",
+        "Dog Chow"
+      ]
+    },
+    {
+      "categoria": "Suplementos",
+      "descripcion": "Suplementos vitamínicos para mascotas",
+      "marcas": [
+        "Artri Balance",
+        "Ol-Trans"
+      ]
+    },
+    {
+      "categoria": "Alimento Especializado",
+      "descripcion": "Alimentos especializados para cachorros y adultos mayores",
+      "marcas": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68119db601ef71026bf074d5"
+  },
+  "nombre": "PetPlay Importaciones",
+  "contacto": {
+    "telefono": "+57 1 9876543",
+    "email": "contacto@petplay.com.co"
+  },
+  "direccion": "Avenida 80 # 45-12, Medellín, Colombia",
+  "catalogo": [
+    {
+      "categoria": "Juguetes",
+      "descripcion": "Juguetes para gatos y perros",
+      "marcas": [
+        "Kong",
+        "AFP",
+        "Pawise",
+        "M-PETS"
+      ]
+    },
+    {
+      "categoria": "Accesorios",
+      "descripcion": "Accesorios para mascotas",
+      "productos": [
+        "Camas",
+        "Dispensadores",
+        "Collares",
+        "Impermeables"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68119db601ef71026bf074d6"
+  },
+  "nombre": "VetCare Pharmaceuticals",
+  "contacto": {
+    "telefono": "+1 786 234 5678",
+    "email": "pedidos@vetcarepharma.com"
+  },
+  "direccion": "8900 NW 35th Ln, Miami, FL, USA",
+  "catalogo": [
+    {
+      "categoria": "Medicamentos",
+      "descripcion": "Medicamentos antipulgas y antiparasitarios para perros y gatos",
+      "marcas": [
+        "Nexgard",
+        "Total FLC"
+      ]
+    },
+    {
+      "categoria": "Suplementos",
+      "descripcion": "Suplementos renales y de soporte inmunológico",
+      "marcas": [
+        "Fel-Lysin",
+        "Renal Balance"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68119db601ef71026bf074d7"
+  },
+  "nombre": "EcoPets Accesorios",
+  "contacto": {
+    "telefono": "+57 320 654 7890",
+    "email": "ventas@ecopets.com"
+  },
+  "direccion": "Carrera 50 # 14-25, Cali, Colombia",
+  "catalogo": [
+    {
+      "categoria": "Accesorios Ecológicos",
+      "descripcion": "Collares ecológicos y dispensadores de alimento",
+      "marcas": [
+        "Jazz M-PETS",
+        "Ferplast"
+      ]
+    },
+    {
+      "categoria": "Ropa",
+      "descripcion": "Ropa impermeable para mascotas",
+      "marcas": [
+        "Vipets"
+      ]
+    }
+  ]
+}]

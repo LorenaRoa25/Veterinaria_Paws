@@ -1,0 +1,396 @@
+[{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074ab"
+  },
+  "nombre": "Alimento Gato Fancy Feast Terrine Pavo - 3 Oz",
+  "descripcion": "Mix de trozos delicadamente picados combinado con un delicioso paté.",
+  "precio": 5700,
+  "cantidad_disponible": 50,
+  "categoria": "Alimento húmedo",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para gatos/alimento humedo estandar/adulto/Alimento Gato Fancy Feast Terrine Pavo - 3 Oz.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074ac"
+  },
+  "nombre": "Alimento Húmedo Gato Fancy Feast Petits Filets Pollo Y Queso - 3 Oz",
+  "descripcion": "Deliciosa preparación de comida húmeda en trocitos con una lujosa salsa.",
+  "precio": 5700,
+  "cantidad_disponible": 50,
+  "categoria": "Alimento húmedo",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para gatos/alimento humedo estandar/adulto/Alimento Húmedo Gato Fancy Feast Petits Filets Pollo Y Queso - 3 Oz.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074ad"
+  },
+  "nombre": "Alimento Húmedo Gato Fancy Feast Pouch Kiss Atún - 40 Gr",
+  "descripcion": "Textura con deliciosos y delicados trocitos de carne seleccionada a mano.",
+  "precio": 11500,
+  "cantidad_disponible": 50,
+  "categoria": "Alimento húmedo",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para gatos/alimento humedo estandar/cachorro/Alimento Húmedo Gato Fancy Feast Pouch Kiss Atún - 40 Gr.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074ae"
+  },
+  "nombre": "Alimento Húmedo Gato Fancy Feast Pouch Kiss Salmón Y Atún - 40 Gr",
+  "descripcion": "Textura con deliciosos y delicados trocitos de carne seleccionada a mano.",
+  "precio": 11500,
+  "cantidad_disponible": 50,
+  "categoria": "Alimento húmedo",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para gatos/alimento humedo estandar/cachorro/Alimento Húmedo Gato Fancy Feast Pouch Kiss Salmón Y Atún - 40 Gr.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074af"
+  },
+  "nombre": "Alimento Para Gato Chunky Salmón Y Cordero - 8 Kg",
+  "descripcion": "Hecho con carne de verdad de salmon y cordero, control de bolas de pelo y garantiza la acidez del ph urinario.",
+  "precio": 27100,
+  "cantidad_disponible": 50,
+  "categoria": "Alimento seco",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para gatos/alimento seco estandar/adulto/Alimento Para Gato Chunky Salmón Y Cordero - 1.5 Kg.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074b0"
+  },
+  "nombre": "Oh Mai Gat Caseros Y Delicado - 1.5 Kg",
+  "descripcion": "Enriquecido con omega 3, contiene extracto de levadura con nucleótidos que fortalecen el sistema inmunológico y mejoran la regeneración celular.",
+  "precio": 33200,
+  "cantidad_disponible": 50,
+  "categoria": "Alimento seco",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para gatos/alimento seco estandar/adulto/Oh Mai Gat Caseros Y Delicado - 1.5 Kg.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074b1"
+  },
+  "nombre": "Alimento Para Gato Chunky Gaticos Pollo - 1.5 Kg",
+  "descripcion": "Verdadera carne de pollo y cordero como principal fuente de proteína, garantiza la acidez del ph urinario",
+  "precio": 28100,
+  "cantidad_disponible": 50,
+  "categoria": "Alimento seco",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para gatos/alimento seco estandar/cachorro/Alimento Para Gato Chunky Gaticos Pollo - 1.5 Kg.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074b2"
+  },
+  "nombre": "Oh Mai Gat Gatitos Juguetones - 1.5 Kg",
+  "descripcion": "Ofrece una nutrición deliciosa y de alta calidad para gatitos, con proteínas animales y leche que favorecen su desarrollo.",
+  "precio": 33347,
+  "cantidad_disponible": 50,
+  "categoria": "Alimento seco",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para gatos/alimento seco estandar/cachorro/Oh Mai Gat Gatitos Juguetones - 1.5 Kg.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074b3"
+  },
+  "nombre": "Alimento Húmedo Para Perro Chunky Delidog Pollo - 400 Gr",
+  "descripcion": "Alimento húmedo en pate con verdadero pollo, producto colombiano que garantiza su frescura.",
+  "precio": 10900,
+  "cantidad_disponible": 45,
+  "categoria": "Alimento húmedo",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para perros/alimento humedo estandar/adulto/Alimento Húmedo Para Perro Chunky Delidog Pollo - 400 Gr.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074b4"
+  },
+  "nombre": "Alimento Húmedo Para Perro Pedigree Adulto Beef - 100 Gr",
+  "descripcion": "Alimento húmedo sabor a carne, 100% completo y balanceado. Con los nutrientes necesarios para que tu perro tenga una vida sana y feliz.",
+  "precio": 3200,
+  "cantidad_disponible": 45,
+  "categoria": "Alimento húmedo",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para perros/alimento humedo estandar/adulto/Alimento Húmedo Para Perro Pedigree Adulto Beef - 100 Gr.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074b5"
+  },
+  "nombre": "Alimento Húmedo Para Perro Pedigree Pouch Cachorro Carne - 100 Gr",
+  "descripcion": "Deliciosos y nutritivos trocitos de carne que proporcionan una alimentación tan completa y balanceada como el alimento seco que ya conoces.",
+  "precio": 3200,
+  "cantidad_disponible": 45,
+  "categoria": "Alimento húmedo",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para perros/alimento humedo estandar/cachorro/Alimento Húmedo Para Perro Pedigree Pouch Cachorro Carne - 100 Gr.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074b6"
+  },
+  "nombre": "Alimento Húmedo Para Perro Pedigree Puppy Chicken - 100 Gr",
+  "descripcion": "Es una rica, sabrosa y saludable opción de alimentación, consiste en un delicioso paté o carne molida de pollo.",
+  "precio": 3200,
+  "cantidad_disponible": 45,
+  "categoria": "Alimento húmedo",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para perros/alimento humedo estandar/cachorro/Alimento Húmedo Para Perro Pedigree Puppy Chicken - 100 Gr.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074b7"
+  },
+  "nombre": "Alimento Húmedo Para Perro Pouch Wow Can Sabor Carne - 300 Gr",
+  "descripcion": "Cuenta con todos los requisitos nutricionales de una dieta completa y a su vez es un excelente suplemento.",
+  "precio": 6550,
+  "cantidad_disponible": 45,
+  "categoria": "Alimento húmedo",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para perros/alimento humedo estandar/senior/Alimento Húmedo Para Perro Pouch Wow Can Sabor Carne - 300 Gr.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074b8"
+  },
+  "nombre": "Alimento Húmedo Para Perro Pouch Wow Can Salmón - 300 Gr",
+  "descripcion": "Es un alimento completo, mezcla los ingredientes más frescos en un alimento adecuado, rico en nutrientes y fácil de digerir.",
+  "precio": 6550,
+  "cantidad_disponible": 45,
+  "categoria": "Alimento húmedo",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para perros/alimento humedo estandar/senior/Alimento Húmedo Para Perro Pouch Wow Can Salmón - 300 Gr.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074b9"
+  },
+  "nombre": "Alimento Para Perro Chunky Adulto Nuggets Pollo - 2 kg",
+  "descripcion": "Verdadera carne de pollo como fuente principal de proteina y nuggets rellenos con pollo. dh pack que brinda proteccion integral para el tracto gastrointestinal.",
+  "precio": 19200,
+  "cantidad_disponible": 40,
+  "categoria": "Alimento seco",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para perros/alimento seco estandar/adulto/Alimento Para Perro Chunky Adulto Nuggets Pollo - 2 kg.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074ba"
+  },
+  "nombre": "Alimento Seco Para Perro Pedigree Adulto - 4 Kg",
+  "descripcion": "Su fórmula está diseñada para proporcionar una nutrición completa gracias a su alto nivel de proteínas de alta calidad.",
+  "precio": 47120,
+  "cantidad_disponible": 40,
+  "categoria": "Alimento seco",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para perros/alimento seco estandar/adulto/Alimento Seco Para Perro Pedigree Adulto - 4 Kg.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074bb"
+  },
+  "nombre": "Alimento Para Perro Chunky Cachorros - 18 Kg",
+  "descripcion": "Verdadera carne de pollo como principal fuente de proteina. dh pack que brinda protección integral para el tracto gastrointestinal.",
+  "precio": 173100,
+  "cantidad_disponible": 40,
+  "categoria": "Alimento seco",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para perros/alimento seco estandar/cachorro/Alimento Para Perro Chunky Cachorros - 18 Kg.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074bc"
+  },
+  "nombre": "Alimento Seco Para Perro Pedigree Cachorro - 2 Kg",
+  "descripcion": "Este alimento para perros refuerza el sistema inmune de tu cachorro y ayuda al sano desarrollo de su sistema digestivo.",
+  "precio": 38400,
+  "cantidad_disponible": 40,
+  "categoria": "Alimento seco",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para perros/alimento seco estandar/cachorro/Alimento Seco Para Perro Pedigree Cachorro - 2 Kg.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074bd"
+  },
+  "nombre": "Alimento Para Perro Chunky Adultos Mayores - 1.5 Kg",
+  "descripcion": "Verdadera carne de pollo como fuente principal de proteína.",
+  "precio": 28100,
+  "cantidad_disponible": 40,
+  "categoria": "Alimento seco",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para perros/alimento seco estandar/senior/Alimento Para Perro Chunky Adultos Mayores - 1.5 Kg.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074be"
+  },
+  "nombre": "Alimento Para Perro Dog Chow Mayores de 7 Años (Senior Longevidad) - 17 Kg",
+  "descripcion": "Nutrición especializada que maximiza la calidad de vida, rico en antioxidantes que ayuda a retrasar los signos de la edad.",
+  "precio": 206731,
+  "cantidad_disponible": 40,
+  "categoria": "Alimento seco",
+  "imagen_url": "Imagenes_Paws/Productos/alimentos/alimento para perros/alimento seco estandar/senior/Alimento Para Perro Dog Chow Mayores de 7 Años (Senior Longevidad) - 17 Kg.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074bf"
+  },
+  "nombre": "Juguete Para Gato Afp Feather Snake(Color Surtido) - Único",
+  "descripcion": "Esta serpiente emplumada está lleno de hierba gatera y tiene una cola emplumada.",
+  "precio": 13900,
+  "cantidad_disponible": 30,
+  "categoria": "Juguete gato",
+  "imagen_url": "Imagenes_Paws/Productos/juguetes y accesorios/juguetes y accesorios para gatos/juguetes/Juguete Para Gato Afp Feather Snake(Color Surtido) - Único.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074c0"
+  },
+  "nombre": "Juguete Para Gato Cilindro Pawise (Precio X Unidad) Pawise - 1 Unidad",
+  "descripcion": "Juguete cilíndrico para entretenimiento felino",
+  "precio": 2900,
+  "cantidad_disponible": 30,
+  "categoria": "Juguete gato",
+  "imagen_url": "Imagenes_Paws/Productos/juguetes y accesorios/juguetes y accesorios para gatos/juguetes/Juguete Para Gato Cilindro Pawise (Precio X Unidad) Pawise - 1 Unidad.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074c1"
+  },
+  "nombre": "Collar Freestyle Para Gato Jazz M-PETS - Único",
+  "descripcion": "1 x 20 - 30 cm, de plástico reciclado, eco-fácil",
+  "precio": 11900,
+  "cantidad_disponible": 35,
+  "categoria": "Accesorio gato",
+  "imagen_url": "Imagenes_Paws/Productos/juguetes y accesorios/juguetes y accesorios para gatos/accesorios/Collar Freestyle Para Gato Jazz M-PETS - Único.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074c2"
+  },
+  "nombre": "Dispensador Para Mascotas Ferplast Azimut (Color Surtido) - 0.6 Lt",
+  "descripcion": "Es un práctico dispensador está hecho de plástico, tiene un borde de goma antideslizante y un tanque transparente con un indicador de capacidad.",
+  "precio": 27900,
+  "cantidad_disponible": 35,
+  "categoria": "Accesorio gato",
+  "imagen_url": "Imagenes_Paws/Productos/juguetes y accesorios/juguetes y accesorios para gatos/accesorios/Dispensador Para Mascotas Ferplast Azimut (Color Surtido) - 0.6 Lt.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074c3"
+  },
+  "nombre": "Kong Perro Peluche Cozie Leon Azul",
+  "descripcion": "Ultrarresistente que ofrece momentos de diversión repletos de acción, el material anti desgarro y las costuras reforzadas se combinan con un resistente revestimiento interior.",
+  "precio": 53900,
+  "cantidad_disponible": 25,
+  "categoria": "Juguete perro",
+  "imagen_url": "Imagenes_Paws/Productos/juguetes y accesorios/juguetes y accesorios para perros/juguetes/Kong Perro Peluche Cozie Leon Azul.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074c4"
+  },
+  "nombre": "Juguete Refrigerante Para Perro Helado M-PETS - Único",
+  "descripcion": "Juguete para perro en forma de helado: 13.6 x 5.5 x 3.2 cm, efecto frío (agua en su interior), eefresca y enfría. Tres colores: Azul, Rojo, Turquesa",
+  "precio": 23900,
+  "cantidad_disponible": 25,
+  "categoria": "Juguete perro",
+  "imagen_url": "Imagenes_Paws/Productos/juguetes y accesorios/juguetes y accesorios para perros/juguetes/Juguete Refrigerante Para Perro Helado M-PETS - Único.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074c5"
+  },
+  "nombre": "Impermeable Vipets Para Mascotas (Colores Surtidos) - L",
+  "descripcion": "Prenda con capota diseñada para la lluvia, elaborada en material impermeable a base de PVC.",
+  "precio": 79900,
+  "cantidad_disponible": 25,
+  "categoria": "Accesorio perro",
+  "imagen_url": "Imagenes_Paws/Productos/juguetes y accesorios/juguetes y accesorios para perros/accesorios/Impermeable Vipets Para Mascotas (Colores Surtidos) - L.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074c6"
+  },
+  "nombre": "Cama Para Perro Moisés Gris Puppis - L 95X75X20",
+  "descripcion": "El descanso perfecto para tu mejor amigo. Suave, acogedora y elegante en color gris. ¡Tu perro te lo agradecerá!",
+  "precio": 179900,
+  "cantidad_disponible": 25,
+  "categoria": "Accesorio perro",
+  "imagen_url": "Imagenes_Paws/Productos/juguetes y accesorios/juguetes y accesorios para perros/accesorios/Cama Para Perro Moisés Gris Puppis - L 95X75X20.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074c7"
+  },
+  "nombre": "Antipulgas Y Garrapatas Para Gato - 2.6 - 7.5 Kg",
+  "descripcion": "El antiparasitario interno y externo para gatos es un medicamento efectivo para el tratamiento y control de infestaciones por pulgas, garrapatas y sarna sarcóptica.",
+  "precio": 55900,
+  "cantidad_disponible": 20,
+  "categoria": "Medicamento gato",
+  "imagen_url": "Imagenes_Paws/Productos/medicamentos/medicamento para gatos/Antipulgas Y Garrapatas Para Gato - 2.6 - 7.5 Kg.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074c8"
+  },
+  "nombre": "Antiparasitario Combo Cat Nexgard Boehringer - 2.5 - 7.5 Kg",
+  "descripcion": "Ofrece el espectro más amplio de protección contra parásitos externos e internos, incluidas pulgas, garrapatas, gusanos del corazón y gusanos intestinales.",
+  "precio": 71900,
+  "cantidad_disponible": 20,
+  "categoria": "Medicamento gato",
+  "imagen_url": "Imagenes_Paws/Productos/medicamentos/medicamento para gatos/Antiparasitario Combo Cat Nexgard Boehringer - 2.5 - 7.5 Kg.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074c9"
+  },
+  "nombre": "Antiparasitario Interno Para Perro Total FLC - R. Grande",
+  "descripcion": "Es un antiparasitario interno de uso veterinario para perros en comprimidos birranurados palatables, indicaciones: prevención y tratamiento de cestodes, nematodes y giardias (formas quísticas).",
+  "precio": 53900,
+  "cantidad_disponible": 20,
+  "categoria": "Medicamento perro",
+  "imagen_url": "Imagenes_Paws/Productos/medicamentos/medicamento para perros/Antiparasitario Interno Para Perro Total FLC - R. Grande.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074ca"
+  },
+  "nombre": "Antipulgas Nexgard Chewable Perros (Una Tableta) - 10 - 25 Kg",
+  "descripcion": "Tratamiento y prevención de infestación por: pulgas, garrapatas, sarna demodéctica, sarna sarcóptica, sarna otodéctica y miasis.",
+  "precio": 54900,
+  "cantidad_disponible": 20,
+  "categoria": "Medicamento perro",
+  "imagen_url": "Imagenes_Paws/Productos/medicamentos/medicamento para perros/antipulgas-nexgard-chewable-perros-10-25kg.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074cb"
+  },
+  "nombre": "Suplemento Para Gatos Fel-Lysin Invet Un Far - 88 Gr",
+  "descripcion": "Tabletas masticables de fácil administración y agradable sabor, especialmente formuladas con Lisina y DMG para fortalecer el sistema inmunológico de los gatos de todas las edades.",
+  "precio": 72900,
+  "cantidad_disponible": 20,
+  "categoria": "Vitamina gato",
+  "imagen_url": "Imagenes_Paws/Productos/vitaminas/vitaminas para gatos/Suplemento Para Gatos Fel-Lysin Invet Un Far - 88 Gr.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074cc"
+  },
+  "nombre": "Suplemento Renal Balance for Cats - 60 Tab",
+  "descripcion": "Complemento nutricional, es una fórmula de apoyo al riñón y al aparato urinario que mejora el flujo sanguíneo renal.",
+  "precio": 91900,
+  "cantidad_disponible": 20,
+  "categoria": "Vitamina gato",
+  "imagen_url": "Imagenes_Paws/Productos/vitaminas/vitaminas para gatos/Suplemento Renal Balance for Cats - 60 Tab.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074cd"
+  },
+  "nombre": "Suplemento Vitamínico Artri Balance Frasco - 60 Tab",
+  "descripcion": "Suplemento con glucosamina, condroitin, MSM, vitamina C y manganeso que contrarrestan el efecto oxidativo de los radicales libres y alivian eficazmente y sin efectos secundarios",
+  "precio": 144900,
+  "cantidad_disponible": 20,
+  "categoria": "Vitamina perro",
+  "imagen_url": "Imagenes_Paws/Productos/vitaminas/vitaminas para perros/Suplemento Vitamínico Artri Balance Frasco - 60 Tab.png"
+},
+{
+  "_id": {
+    "$oid": "6811927f01ef71026bf074ce"
+  },
+  "nombre": "Suplemento Vitamínico Para Mascotas Ol-Trans - 80 Gr",
+  "descripcion": "Suplemento vitamínico mineral energizante en polvo palatable. Condroprotector. Reconstituyente, Condroprotector, Condrorreparador, Promotor de la Colagenogénesis. L-metionina.",
+  "precio": 62900,
+  "cantidad_disponible": 20,
+  "categoria": "Vitamina perro",
+  "imagen_url": "Imagenes_Paws/Productos/vitaminas/vitaminas para perros/Suplemento Vitamínico Para Mascotas Ol-Trans - 80 Gr.png"
+}]

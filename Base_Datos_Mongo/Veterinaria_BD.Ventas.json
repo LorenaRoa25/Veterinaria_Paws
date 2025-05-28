@@ -1,0 +1,288 @@
+[{
+  "_id": {
+    "$oid": "689a4f2d01ef71026bf07500"
+  },
+  "numero_factura": "FAC-2025-0001",
+  "fecha": "2025-04-15T14:30:00.000Z",
+  "cliente": {
+    "id": {
+      "$oid": "6811972f01ef71026bf074cf"
+    },
+    "nombre": "Jeon Jung-kook",
+    "contacto": {
+      "telefono": "+82 10-1234-5678",
+      "email": "jungkook97@gmail.com"
+    }
+  },
+  "productos": [
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074b9"
+      },
+      "nombre": "Alimento Para Perro Chunky Adulto Nuggets Pollo",
+      "cantidad": 1,
+      "unidad": "2 kg",
+      "precio_unitario": 19200,
+      "subtotal": 19200
+    },
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074c3"
+      },
+      "nombre": "Kong Perro Peluche Cozie Leon Azul",
+      "cantidad": 1,
+      "unidad": "unidad",
+      "precio_unitario": 53900,
+      "subtotal": 53900
+    }
+  ],
+  "metodo_pago": "Tarjeta de crédito",
+  "subtotal": 73100,
+  "impuesto": 13889,
+  "total": 86989,
+  "estado": "Completada",
+  "direccion": "Sabaneta-carrera 50 #10-14",
+  "ciudad": "Medellin"
+},
+{
+  "_id": {
+    "$oid": "689a4f2d01ef71026bf07501"
+  },
+  "numero_factura": "FAC-2025-0002",
+  "fecha": "2025-04-20T11:15:00.000Z",
+  "cliente": {
+    "id": {
+      "$oid": "6811972f01ef71026bf074d0"
+    },
+    "nombre": "Taylor Alison Swift",
+    "contacto": {
+      "telefono": "+1 615-987-6543",
+      "email": "taylor13swift@gmail.com"
+    }
+  },
+  "productos": [
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074ac"
+      },
+      "nombre": "Alimento Húmedo Gato Fancy Feast Petits Filets Pollo Y Queso",
+      "cantidad": 5,
+      "unidad": "3 Oz",
+      "precio_unitario": 5700,
+      "subtotal": 28500
+    },
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074bf"
+      },
+      "nombre": "Juguete Para Gato Afp Feather Snake",
+      "cantidad": 1,
+      "unidad": "unidad",
+      "precio_unitario": 13900,
+      "subtotal": 13900
+    },
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074cc"
+      },
+      "nombre": "Suplemento Renal Balance for Cats",
+      "cantidad": 1,
+      "unidad": "60 Tab",
+      "precio_unitario": 91900,
+      "subtotal": 91900
+    }
+  ],
+  "metodo_pago": "Efectivo",
+  "subtotal": 134300,
+  "impuesto": 25517,
+  "total": 159817,
+  "estado": "Completada",
+  "ciudad": "Itagui",
+  "direccion": "calle 30 #08-24\""
+},
+{
+  "_id": {
+    "$oid": "689a4f2d01ef71026bf07502"
+  },
+  "numero_factura": "FAC-2025-0003",
+  "fecha": "2025-04-22T16:45:00.000Z",
+  "cliente": {
+    "id": {
+      "$oid": "6811972f01ef71026bf074d3"
+    },
+    "nombre": "Salomón Villada",
+    "contacto": {
+      "telefono": "+57 302-789-1234",
+      "email": "feid07@gmail.com"
+    }
+  },
+  "productos": [
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074c4"
+      },
+      "nombre": "Juguete Refrigerante Para Perro Helado M-PETS",
+      "cantidad": 2,
+      "unidad": "unidad",
+      "precio_unitario": 23900,
+      "subtotal": 47800
+    },
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074ba"
+      },
+      "nombre": "Alimento Seco Para Perro Pedigree Adulto",
+      "cantidad": 1,
+      "unidad": "4 Kg",
+      "precio_unitario": 47120,
+      "subtotal": 47120
+    }
+  ],
+  "metodo_pago": "Transferencia bancaria",
+  "subtotal": 94920,
+  "impuesto": 18035,
+  "total": 112955,
+  "estado": "Completada",
+  "ciudad": "Medellin",
+  "direccion": "calle 50A #68-17"
+},
+{
+  "_id": {
+    "$oid": "689a4f2d01ef71026bf07503"
+  },
+  "numero_factura": "FAC-2025-0004",
+  "fecha": "2025-04-25T10:30:00.000Z",
+  "cliente": {
+    "id": {
+      "$oid": "6811972f01ef71026bf074d2"
+    },
+    "nombre": "Carolina Giraldo Navarro",
+    "contacto": {
+      "telefono": "+57 301-234-5678",
+      "email": "karolg14@gmail.com"
+    }
+  },
+  "productos": [
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074c5"
+      },
+      "nombre": "Impermeable Vipets Para Mascotas",
+      "cantidad": 1,
+      "unidad": "L",
+      "precio_unitario": 79900,
+      "subtotal": 79900
+    },
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074c6"
+      },
+      "nombre": "Cama Para Perro Moisés Gris Puppis",
+      "cantidad": 1,
+      "unidad": "L 95X75X20",
+      "precio_unitario": 179900,
+      "subtotal": 179900
+    }
+  ],
+  "metodo_pago": "Tarjeta de débito",
+  "subtotal": 259800,
+  "impuesto": 49362,
+  "total": 309162,
+  "estado": "Completada",
+  "ciudad": "Itagui",
+  "direccion": "carrera 15 sur"
+},
+{
+  "_id": {
+    "$oid": "689a4f2d01ef71026bf07504"
+  },
+  "numero_factura": "FAC-2025-0005",
+  "fecha": "2025-04-28T15:00:00.000Z",
+  "cliente": {
+    "id": {
+      "$oid": "6811972f01ef71026bf074d1"
+    },
+    "nombre": "Juan Luis Londoño Arias",
+    "contacto": {
+      "telefono": "+57 300-456-7890",
+      "email": "maluma11@gmail.com"
+    }
+  },
+  "productos": [
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074bb"
+      },
+      "nombre": "Alimento Para Perro Chunky Cachorros",
+      "cantidad": 1,
+      "unidad": "18 kg",
+      "precio_unitario": 173100,
+      "subtotal": 173100
+    },
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074c9"
+      },
+      "nombre": "Antiparasitario Interno Para Perro Total FLC",
+      "cantidad": 2,
+      "unidad": "R. Grande",
+      "precio_unitario": 53900,
+      "subtotal": 107800
+    },
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074ce"
+      },
+      "nombre": "Suplemento Vitamínico Para Mascotas Ol-Trans",
+      "cantidad": 1,
+      "unidad": "80 Gr",
+      "precio_unitario": 62900,
+      "subtotal": 62900
+    }
+  ],
+  "metodo_pago": "Tarjeta de crédito",
+  "subtotal": 343800,
+  "impuesto": 65322,
+  "total": 409122,
+  "estado": "Completada",
+  "ciudad": "Medellin",
+  "direccion": "calle 10 #12-37"
+},
+{
+  "_id": {
+    "$oid": "68351f2f8845b24ceddf085d"
+  },
+  "numero_factura": "FAC-0006",
+  "fecha": {
+    "$date": "2025-05-27T02:10:55.541Z"
+  },
+  "cliente": {
+    "nombre": "oooo",
+    "email": "lorenaroarivera@gmail.com",
+    "telefono": "222"
+  },
+  "productos": [
+    {
+      "name": "Alimento Gato Fancy Feast Terrine Pavo - 3 Oz",
+      "price": 5700,
+      "quantity": 4
+    },
+    {
+      "name": "Alimento Seco Para Perro Pedigree Adulto - 4 Kg",
+      "price": 47120,
+      "quantity": 1
+    },
+    {
+      "name": "Alimento Húmedo Gato Fancy Feast Petits Filets Pollo Y Queso - 3 Oz",
+      "price": 5700,
+      "quantity": 1
+    }
+  ],
+  "metodo_pago": "Efectivo",
+  "subtotal": 75620,
+  "impuesto": 0,
+  "total": 75620,
+  "estado": "Pagado",
+  "direccion": "hlihli",
+  "ciudad": "hlihli"
+}]

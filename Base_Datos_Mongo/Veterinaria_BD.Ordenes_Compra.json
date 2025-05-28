@@ -1,0 +1,289 @@
+[{
+  "_id": {
+    "$oid": "689a4f2d01ef71026bf07510"
+  },
+  "numero_orden": "OC-2025-0001",
+  "fecha_emision": "2025-04-10T09:00:00.000Z",
+  "fecha_entrega_estimada": "2025-04-17T09:00:00.000Z",
+  "proveedor": {
+    "id": {
+      "$oid": "68119db601ef71026bf074d4"
+    },
+    "nombre": "NutriPet Colombia S.A.S.",
+    "contacto": {
+      "telefono": "+57 1 4567890",
+      "email": "ventas@nutripetcol.com"
+    }
+  },
+  "productos": [
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074b9"
+      },
+      "nombre": "Alimento Para Perro Chunky Adulto Nuggets Pollo",
+      "cantidad": 20,
+      "unidad": "2 kg",
+      "precio_unitario": 15500,
+      "subtotal": 310000
+    },
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074bb"
+      },
+      "nombre": "Alimento Para Perro Chunky Cachorros",
+      "cantidad": 10,
+      "unidad": "18 kg",
+      "precio_unitario": 155000,
+      "subtotal": 1550000
+    },
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074af"
+      },
+      "nombre": "Alimento Para Gato Chunky Salmón Y Cordero",
+      "cantidad": 15,
+      "unidad": "8 kg",
+      "precio_unitario": 23000,
+      "subtotal": 345000
+    }
+  ],
+  "subtotal": 2205000,
+  "impuesto": 418950,
+  "costo_envio": 0,
+  "total": 2623950,
+  "estado": "Entregada",
+  "fecha_entrega_real": "2025-04-16T14:30:00.000Z",
+  "metodo_pago": "Transferencia bancaria"
+},
+{
+  "_id": {
+    "$oid": "689a4f2d01ef71026bf07511"
+  },
+  "numero_orden": "OC-2025-0002",
+  "fecha_emision": "2025-04-12T11:30:00.000Z",
+  "fecha_entrega_estimada": "2025-04-19T11:30:00.000Z",
+  "proveedor": {
+    "id": {
+      "$oid": "68119db601ef71026bf074d5"
+    },
+    "nombre": "PetPlay Importaciones",
+    "contacto": {
+      "telefono": "+57 1 9876543",
+      "email": "contacto@petplay.com.co"
+    }
+  },
+  "productos": [
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074c3"
+      },
+      "nombre": "Kong Perro Peluche Cozie Leon Azul",
+      "cantidad": 10,
+      "unidad": "unidad",
+      "precio_unitario": 42000,
+      "subtotal": 420000
+    },
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074c4"
+      },
+      "nombre": "Juguete Refrigerante Para Perro Helado M-PETS",
+      "cantidad": 15,
+      "unidad": "unidad",
+      "precio_unitario": 18500,
+      "subtotal": 277500
+    },
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074bf"
+      },
+      "nombre": "Juguete Para Gato Afp Feather Snake",
+      "cantidad": 12,
+      "unidad": "unidad",
+      "precio_unitario": 10000,
+      "subtotal": 120000
+    }
+  ],
+  "subtotal": 817500,
+  "impuesto": 155325,
+  "costo_envio": 50000,
+  "total": 1022825,
+  "estado": "Entregada",
+  "fecha_entrega_real": "2025-04-18T15:45:00.000Z",
+  "metodo_pago": "Tarjeta de credito"
+},
+{
+  "_id": {
+    "$oid": "689a4f2d01ef71026bf07512"
+  },
+  "numero_orden": "OC-2025-0003",
+  "fecha_emision": "2025-04-15T14:00:00.000Z",
+  "fecha_entrega_estimada": "2025-04-30T14:00:00.000Z",
+  "proveedor": {
+    "id": {
+      "$oid": "68119db601ef71026bf074d6"
+    },
+    "nombre": "VetCare Pharmaceuticals",
+    "contacto": {
+      "telefono": "+1 786 234 5678",
+      "email": "pedidos@vetcarepharma.com"
+    }
+  },
+  "productos": [
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074ca"
+      },
+      "nombre": "Antipulgas Nexgard Chewable Perros (Una Tableta)",
+      "cantidad": 30,
+      "unidad": "unidad",
+      "precio_unitario": 45000,
+      "subtotal": 1350000
+    },
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074c9"
+      },
+      "nombre": "Antiparasitario Interno Para Perro Total FLC",
+      "cantidad": 20,
+      "unidad": "R. Grande",
+      "precio_unitario": 42000,
+      "subtotal": 840000
+    },
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074c8"
+      },
+      "nombre": "Antiparasitario Combo Cat Nexgard Boehringer",
+      "cantidad": 15,
+      "unidad": "2.5 - 7.5 Kg",
+      "precio_unitario": 59000,
+      "subtotal": 885000
+    }
+  ],
+  "subtotal": 3075000,
+  "impuesto": 584250,
+  "costo_envio": 150000,
+  "total": 3809250,
+  "estado": "En tránsito",
+  "fecha_entrega_real": null,
+  "metodo_pago": "Efectivo"
+},
+{
+  "_id": {
+    "$oid": "689a4f2d01ef71026bf07513"
+  },
+  "numero_orden": "OC-2025-0004",
+  "fecha_emision": "2025-04-20T10:15:00.000Z",
+  "fecha_entrega_estimada": "2025-04-27T10:15:00.000Z",
+  "proveedor": {
+    "id": {
+      "$oid": "68119db601ef71026bf074d7"
+    },
+    "nombre": "EcoPets Accesorios",
+    "contacto": {
+      "telefono": "+57 320 654 7890",
+      "email": "ventas@ecopets.com"
+    }
+  },
+  "productos": [
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074c5"
+      },
+      "nombre": "Impermeable Vipets Para Mascotas",
+      "cantidad": 8,
+      "unidad": "L",
+      "precio_unitario": 65000,
+      "subtotal": 520000
+    },
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074c1"
+      },
+      "nombre": "Collar Freestyle Para Gato Jazz M-PETS",
+      "cantidad": 15,
+      "unidad": "unidad",
+      "precio_unitario": 8000,
+      "subtotal": 120000
+    },
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074c2"
+      },
+      "nombre": "Dispensador Para Mascotas Ferplast Azimut",
+      "cantidad": 10,
+      "unidad": "0.6 Lt",
+      "precio_unitario": 22000,
+      "subtotal": 220000
+    }
+  ],
+  "subtotal": 860000,
+  "impuesto": 163400,
+  "costo_envio": 35000,
+  "total": 1058400,
+  "estado": "Pendiente",
+  "fecha_entrega_real": null,
+  "metodo_pago": "Transferencia bancaria"
+},
+{
+  "_id": {
+    "$oid": "689a4f2d01ef71026bf07514"
+  },
+  "numero_orden": "OC-2025-0005",
+  "fecha_emision": "2025-04-22T09:45:00.000Z",
+  "fecha_entrega_estimada": "2025-04-29T09:45:00.000Z",
+  "proveedor": {
+    "id": {
+      "$oid": "68119db601ef71026bf074d4"
+    },
+    "nombre": "NutriPet Colombia S.A.S.",
+    "contacto": {
+      "telefono": "+57 1 4567890",
+      "email": "ventas@nutripetcol.com"
+    }
+  },
+  "responsable": {
+    "id": "V001",
+    "nombre": "Ana Martínez Gómez"
+  },
+  "productos": [
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074cd"
+      },
+      "nombre": "Suplemento Vitamínico Artri Balance Frasco",
+      "cantidad": 15,
+      "unidad": "60 Tab",
+      "precio_unitario": 120000,
+      "subtotal": 1800000
+    },
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074ce"
+      },
+      "nombre": "Suplemento Vitamínico Para Mascotas Ol-Trans",
+      "cantidad": 20,
+      "unidad": "80 Gr",
+      "precio_unitario": 50000,
+      "subtotal": 1000000
+    },
+    {
+      "id": {
+        "$oid": "6811927f01ef71026bf074be"
+      },
+      "nombre": "Alimento Para Perro Dog Chow Mayores de 7 Años (Senior Longevidad)",
+      "cantidad": 8,
+      "unidad": "17 Kg",
+      "precio_unitario": 180000,
+      "subtotal": 1440000
+    }
+  ],
+  "subtotal": 4240000,
+  "impuesto": 805600,
+  "costo_envio": 0,
+  "total": 5045600,
+  "estado": "Pendiente",
+  "fecha_entrega_real": null,
+  "metodo_pago": "Tarjeta de debito"
+}]

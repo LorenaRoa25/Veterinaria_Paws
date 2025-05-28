@@ -1,0 +1,52 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Editar Producto</title>
+  <link rel="stylesheet" href="{% static 'panel_administrativo/administrativo_styles.css' %}">
+</head>
+<body>
+  <div class="main-content" style="padding: 40px;">
+    <h1>Editar Producto</h1>
+    <form method="post" style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+      {% csrf_token %}
+
+      <div style="flex: 1; min-width: 200px;">
+        <label>Nombre:</label>
+        <input type="text" name="nombre" value="{{ producto.nombre }}" required>
+      </div>
+      <div style="flex: 1; min-width: 200px;">
+        <label>Descripción:</label>
+        <input type="text" name="descripcion" value="{{ producto.descripcion }}" required>
+      </div>
+      <div style="flex: 1; min-width: 120px;">
+        <label>Precio:</label>
+        <input type="number" name="precio" value="{{ producto.precio }}" required>
+      </div>
+      <div style="flex: 1; min-width: 120px;">
+        <label>Cantidad Disponible:</label>
+        <input type="number" name="cantidad_disponible" value="{{ producto.cantidad_disponible }}" required>
+      </div>
+      <label>Imagen (opcional):</label>
+<input type="file" name="imagen" id="edit-imagen" accept="image/*">
+      <div style="flex: 1; min-width: 200px;">
+        <label>Categoría:</label>
+        <select name="categoria" required>
+          <option value="">-- Selecciona --</option>
+          <option value="Alimento seco" {% if producto.categoria == "Alimento seco" %}selected{% endif %}>Alimento seco</option>
+          <option value="Alimento húmedo" {% if producto.categoria == "Alimento húmedo" %}selected{% endif %}>Alimento húmedo</option>
+          <option value="Accesorio gato" {% if producto.categoria == "Accesorio gato" %}selected{% endif %}>Accesorio gato</option>
+          <option value="Accesorio perro" {% if producto.categoria == "Accesorio perro" %}selected{% endif %}>Accesorio perro</option>
+        </select>
+      </div>
+      <div style="flex: 0 0 auto;">
+        <label style="visibility: hidden;">Guardar</label><br>
+        <button type="submit" class="btn primary">Guardar Cambios</button>
+        <a href="{% url 'administrativo' %}" class="btn">Cancelar</a>
+      </div>
+    </form>
+  </div>
+</body>
+</html>

@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "6811972f01ef71026bf074cf"
+  },
+  "nombre": "Jeon Jung-kook",
+  "contacto": {
+    "telefono": "+82 10-1234-5678",
+    "email": "jungkook97@gmail.com"
+  },
+  "historialCompras": [
+    {
+      "producto": "Alimento Para Perro Chunky Adulto Nuggets Pollo",
+      "cantidad": "2 kg",
+      "categoria": "Alimento seco"
+    },
+    {
+      "producto": "Kong Perro Peluche Cozie León Azul",
+      "cantidad": "1",
+      "categoria": "Juguetes"
+    },
+    {
+      "producto": "Antipulgas Nexgard Chewable Perros (Una Tableta)",
+      "cantidad": "1",
+      "categoria": "Medicamentos"
+    },
+    {
+      "producto": "Suplemento Vitamínico Artri Balance Frasco",
+      "cantidad": "60 Tab",
+      "categoria": "Suplementos"
+    }
+  ],
+  "preferencias": [
+    "Juguetes resistentes para perros activos",
+    "Suplementos para cuidado de articulaciones y antipulgas"
+  ],
+  "direccion": null,
+  "usuario_id": null
+},
+{
+  "_id": {
+    "$oid": "6811972f01ef71026bf074d0"
+  },
+  "nombre": "Taylor Alison Swift",
+  "contacto": {
+    "telefono": "+1 615-987-6543",
+    "email": "taylor13swift@gmail.com"
+  },
+  "historialCompras": [
+    {
+      "producto": "Alimento Húmedo Gato Fancy Feast Petits Filets Pollo Y Queso",
+      "cantidad": "3 Oz",
+      "categoria": "Alimento húmedo"
+    },
+    {
+      "producto": "Juguete Para Gato Afp Feather Snake",
+      "cantidad": "1",
+      "categoria": "Juguetes"
+    },
+    {
+      "producto": "Collar Freestyle Para Gato Jazz M-PETS",
+      "cantidad": "1",
+      "categoria": "Accesorios"
+    },
+    {
+      "producto": "Suplemento Renal Balance for Cats",
+      "cantidad": "60 Tab",
+      "categoria": "Suplementos"
+    }
+  ],
+  "preferencias": [
+    "Comida húmeda de alta calidad para gatos adultos",
+    "Juguetes estimulantes y accesorios eco-amigables"
+  ],
+  "direccion": null,
+  "usuario_id": null
+},
+{
+  "_id": {
+    "$oid": "6811972f01ef71026bf074d1"
+  },
+  "nombre": "Juan Luis Londoño Arias",
+  "contacto": {
+    "telefono": "+57 300-456-7890",
+    "email": "maluma11@gmail.com"
+  },
+  "historialCompras": [
+    {
+      "producto": "Dispensador Para Mascotas Ferplast Azimut",
+      "cantidad": "1",
+      "categoria": "Accesorios"
+    },
+    {
+      "producto": "Alimento Para Perro Chunky Cachorros",
+      "cantidad": "18 kg",
+      "categoria": "Alimento seco"
+    },
+    {
+      "producto": "Antiparasitario Interno Para Perro Total FLC",
+      "cantidad": "1",
+      "categoria": "Medicamentos"
+    },
+    {
+      "producto": "Suplemento Vitamínico Para Mascotas Ol-Trans",
+      "cantidad": "80 Gr",
+      "categoria": "Suplementos"
+    }
+  ],
+  "preferencias": [
+    "Productos prácticos y de gran tamaño",
+    "Suplementos para energía y crecimiento"
+  ],
+  "direccion": null,
+  "usuario_id": null
+},
+{
+  "_id": {
+    "$oid": "6811972f01ef71026bf074d2"
+  },
+  "nombre": "Carolina Giraldo Navarro",
+  "contacto": {
+    "telefono": "+57 301-234-5678",
+    "email": "karolg14@gmail.com"
+  },
+  "historialCompras": [
+    {
+      "producto": "Impermeable Vipets Para Mascotas",
+      "cantidad": "1",
+      "categoria": "Ropa"
+    },
+    {
+      "producto": "Alimento Húmedo Para Perro Pedigree Adulto Beef",
+      "cantidad": "100 Gr",
+      "categoria": "Alimento húmedo"
+    },
+    {
+      "producto": "Antipulgas Nexgard Chewable Perros (Una Tableta)",
+      "cantidad": "1",
+      "categoria": "Medicamentos"
+    },
+    {
+      "producto": "Cama Para Perro Moisés Gris Puppis",
+      "cantidad": "1",
+      "categoria": "Accesorios"
+    }
+  ],
+  "preferencias": [
+    "Moda y protección contra la lluvia para perros",
+    "Cuidado antiparasitario y confort para descanso"
+  ],
+  "direccion": null,
+  "usuario_id": null
+},
+{
+  "_id": {
+    "$oid": "6811972f01ef71026bf074d3"
+  },
+  "nombre": "Salomón Villada",
+  "contacto": {
+    "telefono": "+57 302-789-1234",
+    "email": "feid07@gmail.com"
+  },
+  "historialCompras": [
+    {
+      "producto": "Juguete Refrigerante Para Perro Helado M-PETS",
+      "cantidad": "1",
+      "categoria": "Juguetes"
+    },
+    {
+      "producto": "Alimento Seco Para Perro Pedigree Adulto",
+      "cantidad": "4 Kg",
+      "categoria": "Alimento seco"
+    },
+    {
+      "producto": "Antipulgas Nexgard Chewable Perros (Una Tableta)",
+      "cantidad": "1",
+      "categoria": "Medicamentos"
+    },
+    {
+      "producto": "Suplemento Vitamínico Artri Balance Frasco",
+      "cantidad": "60 Tab",
+      "categoria": "Suplementos"
+    }
+  ],
+  "preferencias": [
+    "Juguetes innovadores para perros",
+    "Vitaminas para el mantenimiento de la vitalidad"
+  ],
+  "direccion": null,
+  "usuario_id": null
+}]
